@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FourScreens</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_second_screen">SecondScreen</string>
+    <string name="title_activity_third_screen">ThirdScreen</string>
+    <string name="title_activity_fourth_screen">FourthScreen</string>
+
+    <string name="edit_name">Enter your name</string>
+    <string name="edit_email">Enter email address</string>
+    <string name="edit_phone">Enter phone number</string>
+    <string name="edit_birthday">Enter your birthday</string>
+
+    <string name="textView_Phone">phone</string>
+    <string name="textView_Name">name</string>
+    <string name="textView_Email">email</string>
+
+</resources>
